@@ -1,0 +1,8 @@
+task_handler.c:11:6:menu_task	6
+task_handler.c:60:9:getnumber	2
+task_handler.c:74:6:rtc_task	21
+task_handler.c:259:6:print_task	1
+task_handler.c:269:6:cmd_task	2
+task_handler.c:283:6:process_command	5
+task_handler.c:303:5:extract_command	4
+task_handler.c:322:6:led_task	7

@@ -1,0 +1,4 @@
+rtc_task.c:9:6:show_time_date	2
+rtc_task.c:41:6:rtc_configure_time	1
+rtc_task.c:52:6:rtc_configure_date	1
+rtc_task.c:58:5:validate_rtc_information	10
